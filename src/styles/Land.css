@@ -1,0 +1,34 @@
+.land{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-image: url('../svg/scrbl2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#social{
+    padding: 3%;
+    width: 70%;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10%;
+}
+
+#logo{
+    width: 100%;
+}
+
+#left{
+    flex-grow: 1;
+    width:50%;
+}
+
+#right{
+    flex-grow: 1;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

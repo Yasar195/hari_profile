@@ -1,0 +1,55 @@
+.home{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-image: url('../svg/scrbl2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#left{
+}
+
+#right{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+
+#div h1{
+    color: #0085FF;
+    font-size: 2rem;
+}
+
+#div{
+    width: 40%;
+    height: 65%;
+    padding: 2%;
+    box-shadow: 3px 3px 20px rgba(0,0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    color: #5B5B5B;
+    border-radius: 0.7rem;
+    background-color: white;
+}
+
+#artfolio{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+#img{
+    height: 10%;
+    position: relative;
+}
+
+#climber{
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    height: 40%;
+}

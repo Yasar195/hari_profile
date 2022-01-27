@@ -1,0 +1,66 @@
+#header{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 3%;
+}
+
+#header h1{
+    color: #0085FF;
+    font-size: 2rem;
+}
+
+.maindiv{
+    display: flex;
+    width: 100%;
+    height: 80%;
+    padding: 5%;
+}
+
+.experience{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftdiv{
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.leftdiv h1{
+    margin: 3%;
+    color: #5B5B5B;
+}
+
+.leftdiv h2{
+    color: #0085FF;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.rightdiv{
+    width: 70%;
+}
+
+.rightdiv .experience{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.rightdiv .experience h1{
+    width: 70%;
+    color: #0085FF;
+    font-size: 0.8rem;
+}
+
+.rightdiv .experience h2{
+    color: #5B5B5B;
+    font-size: 0.8rem;
+}

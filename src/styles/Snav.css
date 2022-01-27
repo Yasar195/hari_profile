@@ -1,0 +1,13 @@
+.snav{
+    height: 70%;
+    background-color: #0085FF;
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    justify-content: space-evenly;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+}

@@ -1,0 +1,30 @@
+.nav{
+    width: 45%;
+    padding: 3%;
+    border-radius: 15px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.5);
+    background-color: white;
+}
+
+#link{
+    text-decoration: none;
+}
+
+#h3{
+    color: #0085FF;
+    font-size: 0.7rem;
+    margin-bottom: 5%;
+}
+
+#jump{
+    color:#5B5B5B;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.links h3{
+    color: #0085FF;
+    font-size: 0.6rem;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
